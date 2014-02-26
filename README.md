@@ -18,13 +18,15 @@ And you'll have a random writing prompt. Do with it what you will.
 ## What's in this repository:
 
 * fortune files:
-    * project-framing: useful when you're starting a new project.
-    * unsticking: for finding a new way to look at an existing problem.
-    * generating-ideas: for keeping your routine writing practice going.
-    
-*  a bunch of files ending in .sdat: these are indexes for use by the `fortune` program. You can regenerate them  by typing `fortune.py -u [FILENAME]`. You'll need to regenerate the index anytime you modify one of the files.
+    * `project-framing`: useful when you're starting a new project.
+    * `unsticking`: for finding a new way to look at an existing problem.
+    * `generating-ideas`: for keeping your routine writing practice going.
 
-* TODO: a list of ways to improve what's here.
+* `historacle.sh`: reindexes all of the fortune files and pulls one randomly from any of them.
+    
+*  a bunch of files ending in `.sdat`: these are indexes for use by the `fortune` program. You can regenerate them  by typing `fortune.py -u [FILENAME]`. You'll need to regenerate the index anytime you modify one of the files, unless you’re using the `historacle.sh` shell script.
+
+* `TODO`: a list of ways to improve what's here.
 
 
 
