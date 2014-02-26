@@ -15,7 +15,7 @@ At your shell prompt, type something like:
 And you'll have a random writing prompt. Do with it what you will.
 
 
-## In this repository:
+## What's in this repository:
 
 * fortune files:
     * project-framing: useful when you're starting a new project.
